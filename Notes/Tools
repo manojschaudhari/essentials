@@ -4,3 +4,30 @@
 http://www.jibble.org/jibblewebserver.php {
     java -jar WebServerLite.jar pathtofolder 8080
 }
+
+Jenkins
+
+Metabase
+
+Rundeck
+
+VisualVM
+
+SoapUI
+
+Java Mission Contro {
+    https://adoptopenjdk.net/jmc
+}
+
+Gerrit
+
+FitNesse 
+
+xwiki {
+    Event
+    Release Notes Management
+}
+
+JAMWiki 
+
+TreePad
