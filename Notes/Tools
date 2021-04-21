@@ -1,0 +1,6 @@
+
+
+
+http://www.jibble.org/jibblewebserver.php {
+    java -jar WebServerLite.jar pathtofolder 8080
+}
