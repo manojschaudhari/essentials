@@ -1,2 +1,4 @@
 push.bat
 target/
+webproject/
+WEB-INF/
