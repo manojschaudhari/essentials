@@ -11,5 +11,6 @@
   <entry-point class="com.home.webproject.client.WPEntryPoint" />
   
   <source path="client"/>
+  <source path="shared"/>
   
 </module>
