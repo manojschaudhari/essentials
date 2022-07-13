@@ -1,6 +1,7 @@
 =====================================================================================================
 # Eclipse
 
+devStyle
 notepad - http://eclipsenotepad.sourceforge.net/
 bash editor
 spotbugs - https://spotbugs.readthedocs.io/en/latest/eclipse.html
@@ -9,7 +10,8 @@ checkstyle
 UCD
 sonarlint
 testng
-
+telosys code generator
+yaml editor
 
 
 
@@ -57,3 +59,8 @@ Powershell Scripts
 
 
 =====================================================================================================
+mRemoteNG
+TreePad
+
+=====================================================================================================
+
